@@ -18,3 +18,5 @@ __pycache__/
 
 # Logs
 *.log
+app/memory/*.json
+app/observability/traces/*.json
