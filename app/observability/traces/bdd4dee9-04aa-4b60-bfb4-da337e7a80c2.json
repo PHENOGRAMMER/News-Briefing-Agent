@@ -1,0 +1,63 @@
+{
+  "trace_id": "bdd4dee9-04aa-4b60-bfb4-da337e7a80c2",
+  "start_time": 1764574706.8053074,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 25251,
+      "status": "ok",
+      "meta": {
+        "collected": 5
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 110,
+      "status": "ok",
+      "meta": {
+        "title": "Astrotourism, dark-sky and Northern Lights travel essentials"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 292,
+      "status": "ok",
+      "meta": {
+        "title": "PLANETS Units Have Landed \u2013 Free NASA-Funded Out-of-School Time Resources"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 112,
+      "status": "ok",
+      "meta": {
+        "title": "Scientists studied 47,000 dogs on CBD and found a surprising behavior shift"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 296,
+      "status": "ok",
+      "meta": {
+        "title": "Fructose may quietly supercharge your inflammation"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 116,
+      "status": "ok",
+      "meta": {
+        "title": "Simple thyroid check in pregnancy may lower autism risk"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 26181,
+      "status": "ok",
+      "meta": {
+        "final_count": 5
+      }
+    }
+  ],
+  "end_time": 1764574732.9867306
+}

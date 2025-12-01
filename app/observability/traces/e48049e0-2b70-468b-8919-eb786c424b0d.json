@@ -1,0 +1,63 @@
+{
+  "trace_id": "e48049e0-2b70-468b-8919-eb786c424b0d",
+  "start_time": 1764574862.3848836,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 1125,
+      "status": "ok",
+      "meta": {
+        "collected": 5
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 114,
+      "status": "ok",
+      "meta": {
+        "title": "India evacuates last batch of stranded citizens from Sri Lanka, intensifies reli"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 298,
+      "status": "ok",
+      "meta": {
+        "title": "Farmers urged to focus on wiser use of water in Karnataka"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 118,
+      "status": "ok",
+      "meta": {
+        "title": "Extension of deadline for Special Intensive Revision of poll roll welcome: counc"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 300,
+      "status": "ok",
+      "meta": {
+        "title": "Councillors call for return to zone-wise roadwork tenders"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 147,
+      "status": "ok",
+      "meta": {
+        "title": "VMRDA sets May 2026 deadline for seven road projects linking Vizag to Bhogapuram"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 2107,
+      "status": "ok",
+      "meta": {
+        "final_count": 5
+      }
+    }
+  ],
+  "end_time": 1764574864.492112
+}

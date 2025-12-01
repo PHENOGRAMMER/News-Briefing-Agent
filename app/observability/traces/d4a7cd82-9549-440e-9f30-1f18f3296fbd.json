@@ -1,0 +1,63 @@
+{
+  "trace_id": "d4a7cd82-9549-440e-9f30-1f18f3296fbd",
+  "start_time": 1764565870.4618444,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 546,
+      "status": "ok",
+      "meta": {
+        "collected": 5
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 160,
+      "status": "ok",
+      "meta": {
+        "title": "Trump Administration Will No Longer Commemorate World AIDS Day"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 314,
+      "status": "ok",
+      "meta": {
+        "title": "A Different Type of Dementia Is Changing What\u2019s Known About Cognitive Decline"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 98,
+      "status": "ok",
+      "meta": {
+        "title": "F.D.A. Seeks More Oversight of Vaccine Trials and Approvals"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 305,
+      "status": "ok",
+      "meta": {
+        "title": "F.D.A. Withdraws Rule to Require Testing Cosmetics Made With Talc for Asbestos"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 99,
+      "status": "ok",
+      "meta": {
+        "title": "Female Cardiothoracic Surgeons, Unlocking the Male Fortress"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 1529,
+      "status": "ok",
+      "meta": {
+        "final_count": 0
+      }
+    }
+  ],
+  "end_time": 1764565871.9910662
+}

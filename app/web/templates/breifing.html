@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Briefing</title>
+</head>
+<body>
+    <h1>Daily Briefing</h1>
+
+    <p>Generated at: {{ briefing.generated_at }}</p>
+
+    {% for item in briefing.items %}
+        <div style="margin-bottom:20px;">
+            <h3>{{ item.title }}</h3>
+            <small>Category: {{ item.category }}</small><br>
+            <p>{{ item.summary }}</p>
+            <p><strong>TL;DR:</strong> {{ item.tldr }}</p>
+            <a href="{{ item.url }}" target="_blank">Read Full Article</a>
+        </div>
+        <hr>
+    {% endfor %}
+</body>
+</html>

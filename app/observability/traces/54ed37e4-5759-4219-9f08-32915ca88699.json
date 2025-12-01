@@ -1,0 +1,103 @@
+{
+  "trace_id": "54ed37e4-5759-4219-9f08-32915ca88699",
+  "start_time": 1764573764.2358072,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 936,
+      "status": "ok",
+      "meta": {
+        "collected": 10
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 463,
+      "status": "ok",
+      "meta": {
+        "title": "Early Honduras election results show Trump-backed man ahead"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 302,
+      "status": "ok",
+      "meta": {
+        "title": "New report examines how David Sacks might profit from Trump administration role"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 108,
+      "status": "ok",
+      "meta": {
+        "title": "Behind the scenes of drone food delivery in Finland"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 295,
+      "status": "ok",
+      "meta": {
+        "title": "Ukraine talks 'productive' but more work needed, Rubio says"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 115,
+      "status": "ok",
+      "meta": {
+        "title": "WW1 toxic compound sprayed on Georgian protesters, BBC evidence suggests"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 285,
+      "status": "ok",
+      "meta": {
+        "title": "ChatGPT launched three years ago today"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 116,
+      "status": "ok",
+      "meta": {
+        "title": "Varda says it has proven space manufacturing works \u2014 now it wants to make it bor"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 102,
+      "status": "ok",
+      "meta": {
+        "title": "\u2018Avatar\u2019 director James Cameron says generative AI is \u2018horrifying\u2019"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 110,
+      "status": "ok",
+      "meta": {
+        "title": "US lawmakers demand answers over Hegseth Venezuela boat strike claims"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 103,
+      "status": "ok",
+      "meta": {
+        "title": "'I saw them driving over injured people' - the terrifying escape from war in Sud"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 2942,
+      "status": "ok",
+      "meta": {
+        "final_count": 5
+      }
+    }
+  ],
+  "end_time": 1764573767.177962
+}

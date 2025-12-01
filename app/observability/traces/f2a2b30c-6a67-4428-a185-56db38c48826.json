@@ -1,0 +1,63 @@
+{
+  "trace_id": "f2a2b30c-6a67-4428-a185-56db38c48826",
+  "start_time": 1764574639.0698755,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 3356,
+      "status": "ok",
+      "meta": {
+        "collected": 5
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 207,
+      "status": "ok",
+      "meta": {
+        "title": "Lord Cameron reveals he had prostate cancer"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 300,
+      "status": "ok",
+      "meta": {
+        "title": "F.D.A. Seeks More Oversight of Vaccine Trials and Approvals"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 113,
+      "status": "ok",
+      "meta": {
+        "title": "Sugar tax extended to milk-based drinks: What you need to know"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 303,
+      "status": "ok",
+      "meta": {
+        "title": "A Different Type of Dementia Is Changing What\u2019s Known About Cognitive Decline"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 116,
+      "status": "ok",
+      "meta": {
+        "title": "JFK's granddaughter raises awareness of rare leukaemia with poignant essay"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 4399,
+      "status": "ok",
+      "meta": {
+        "final_count": 5
+      }
+    }
+  ],
+  "end_time": 1764574643.4695013
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News Briefing – Select Categories</title>
+</head>
+<body>
+    <h2>Select news categories</h2>
+
+    <form method="POST">
+        {% for c in supported %}
+            <label>
+                <input type="checkbox" name="categories" value="{{ c }}"
+                    {% if prefs and c in prefs.categories %}checked{% endif %}>
+                {{ c.capitalize() }}
+            </label><br>
+        {% endfor %}
+        <button type="submit">Generate Briefing</button>
+    </form>
+</body>
+</html>

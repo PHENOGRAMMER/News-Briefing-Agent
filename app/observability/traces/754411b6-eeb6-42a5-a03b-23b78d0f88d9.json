@@ -1,0 +1,103 @@
+{
+  "trace_id": "754411b6-eeb6-42a5-a03b-23b78d0f88d9",
+  "start_time": 1764565981.0892916,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 873,
+      "status": "ok",
+      "meta": {
+        "collected": 10
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 98,
+      "status": "ok",
+      "meta": {
+        "title": "Doctor Critical of Vaccines Quietly Appointed as C.D.C.\u2019s Second in Command"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 316,
+      "status": "ok",
+      "meta": {
+        "title": "U.S. Announces Negotiated Prices for 15 Drugs Under Medicare"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 103,
+      "status": "ok",
+      "meta": {
+        "title": "F.D.A. Seeks More Oversight of Vaccine Trials and Approvals"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 301,
+      "status": "ok",
+      "meta": {
+        "title": "Postpartum Prescription of GLP-1 Drugs Has Increased Sharply, Study Finds"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 98,
+      "status": "ok",
+      "meta": {
+        "title": "Study Finds Mental Health Benefit to One-Week Social Media Break"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 298,
+      "status": "ok",
+      "meta": {
+        "title": "Trump Administration Will No Longer Commemorate World AIDS Day"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 106,
+      "status": "ok",
+      "meta": {
+        "title": "A Different Type of Dementia Is Changing What\u2019s Known About Cognitive Decline"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 292,
+      "status": "ok",
+      "meta": {
+        "title": "Female Cardiothoracic Surgeons, Unlocking the Male Fortress"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 103,
+      "status": "ok",
+      "meta": {
+        "title": "F.D.A. Withdraws Rule to Require Testing Cosmetics Made With Talc for Asbestos"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 308,
+      "status": "ok",
+      "meta": {
+        "title": "James Riches, Fire Chief Who Lost Firefighter Son on 9/11, Dies at 74"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 2903,
+      "status": "ok",
+      "meta": {
+        "final_count": 1
+      }
+    }
+  ],
+  "end_time": 1764565983.9926155
+}

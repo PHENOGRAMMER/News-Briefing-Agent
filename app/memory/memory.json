@@ -1,0 +1,41 @@
+{
+  "user_prefs": {
+    "categories": [
+      "tech",
+      "business",
+      "sports",
+      "world",
+      "health",
+      "science",
+      "entertainment"
+    ],
+    "max_items": 10
+  },
+  "muted_sources": [],
+  "last_briefing": {
+    "items": [
+      "bc2076f785785b24d3ce01bdd718dd4d2f4a6c8f7d3523efa54453fa85bd21be",
+      "624070fc822210bc3fa76fa9c7293beecb7bf5dc5dafd2ba84364e46a3b16dcc",
+      "adf30edfda63a9195d3f105b43c8cdf7e783bc8e7b1765e404159c98d8b63d33",
+      "307b65fcedee98b94dedf8cf1905cbda4c1968f8ea64eb0b803ee43239d4c0f5",
+      "2568f5502d94ad8b0d454ac63e2362431770431c952f81ee32fbe456c9363309",
+      "eebcf1d4bc665c5b225c83294cedaed00a526ed263c5e9c1dcc554a598883834",
+      "7705f92e393918a54a6aa4f3964e07922b88dfc16643915e5e62755e0d8e783c",
+      "b7dbb2619493ebaf881dfaf93589bee1e7a4ae0c7bbf9b2a7032670c973f8996",
+      "d90fe739a0017b17829d271aa0697ba892014472557d23870a787a777f65a55a",
+      "1b859acd24ecbbedbaca07908539a0c874ec7643fc847a036b9d1cf316b1cca1",
+      "0a77c6e447b157fa24c555eef83a436997b59b3bc11a3b49404300e26437c113",
+      "5f115e28bc594228380ea19b15e4e7d8262306bb80548b87e2a9a91d0771a4a5",
+      "1edae6bd8d46316eea7c1a129d9679a0b8b3d9fc0947aaae4c3a57d92cd8f085",
+      "e6ae953244c18b9ff2e08e54c28ab595ddbf7cc7d59dbb03f67efb4f6b11eb5f",
+      "8db408ea0b774416622608750fd1d37edb8b33004ebb9878da42b0e3c5ff8e19",
+      "bc9a713ea2e70a4c6887cc4cae44dfad303dc9f097b6bb4cda4899271527e312",
+      "f8a1a6c8147e4872a55b3e325293231a50bf6c75e06631c19d8cf80397fb0d90",
+      "7f5037108b0a00867213710b531d6a60fac3edd3e347871e5bf02caf73bd2739",
+      "761b3bb3672bf91067bb1f595d941d442044cd1f1d54cdd5575cd39440b8fba9",
+      "24c4d95921e8cdcd6cd1fb2f603a55e54f3a7673576e7c6602dabcdf9d645762"
+    ],
+    "ts": 1764578859.4801366
+  },
+  "feedback": []
+}

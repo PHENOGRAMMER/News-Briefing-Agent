@@ -1,0 +1,1023 @@
+{
+  "trace_id": "16fbfc0f-dad7-4eb7-9b66-20fc170dc692",
+  "start_time": 1764575277.4956708,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 21763,
+      "status": "ok",
+      "meta": {
+        "collected": 128
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 138,
+      "status": "ok",
+      "meta": {
+        "title": "Mouth painter's work printed on Christmas card"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 100,
+      "status": "ok",
+      "meta": {
+        "title": "Best iPad apps for unleashing and exploring your creativity"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 96,
+      "status": "ok",
+      "meta": {
+        "title": "No,\u00a0you\u00a0can\u2019t\u00a0get your AI\u00a0to\u00a0\u2018admit\u2019\u00a0to being sexist, but it\u00a0probably is anyway"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 93,
+      "status": "ok",
+      "meta": {
+        "title": "Man Pleads Guilty to 31 Charges After Plowing Car Through Soccer Parade in Liver"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 97,
+      "status": "ok",
+      "meta": {
+        "title": "Israeli Raid in Southern Syria Kills at Least 13, Syrian Officials Say"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 95,
+      "status": "ok",
+      "meta": {
+        "title": "Sources: Spartans target Fitzgerald as new coach"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 98,
+      "status": "ok",
+      "meta": {
+        "title": "Announcing the Rolling Stone College Journalism Awards"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "You need a fabric shaver \u2014 my favorite is on sale for $13 for Cyber Monday"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "Stranger Things: All you need to know about season five"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 118,
+      "status": "ok",
+      "meta": {
+        "title": "Apple Black Friday deals are still live: The biggest sales we've seen in 2025 on"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Kentucky fires Mark Stoops: Top candidates, transfers, recruits"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 89,
+      "status": "ok",
+      "meta": {
+        "title": "Top consultancies freeze starting salaries as AI threatens \u2018pyramid\u2019 model"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 89,
+      "status": "ok",
+      "meta": {
+        "title": "Best beginner cameras for wildlife photography 2025: Nature photography for newb"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Review of unpaid carer debts announced after damning report"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 101,
+      "status": "ok",
+      "meta": {
+        "title": "How Milei's 'Thatcherite' economics divided his nation - but won over Trump"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Gove apologises after Covid report alleges 'toxic' culture"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 93,
+      "status": "ok",
+      "meta": {
+        "title": "First images teased for new series of BBC drama Industry"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 87,
+      "status": "ok",
+      "meta": {
+        "title": "Covid inquiry told Treasury blocked NHS bed request"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 107,
+      "status": "ok",
+      "meta": {
+        "title": "RuPaul's Drag Race UK winner reveals plan for prize money"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "'We need to teach children about personal finance'"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 197,
+      "status": "ok",
+      "meta": {
+        "title": "Red Spider Nebula"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 203,
+      "status": "ok",
+      "meta": {
+        "title": "Thousands of Amazon employees send open letter to CEO; question layoffs"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 103,
+      "status": "ok",
+      "meta": {
+        "title": "Cyber Monday Lego deals are here: Up to 50 percent off on Star Wars, Disney, Har"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Steelers vs. Bills: Where to watch NFL Week 13, score prediction, betting odds, "
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 92,
+      "status": "ok",
+      "meta": {
+        "title": "The harsh truth about J.J. McCarthy's first six starts -- and whether the Viking"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "How dangerous are interstellar objects like 3I/ATLAS?"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 92,
+      "status": "ok",
+      "meta": {
+        "title": "Best Costco Black Friday Deals 2025"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 115,
+      "status": "ok",
+      "meta": {
+        "title": "Black Friday subscription and streaming deals you can still get today: Discounts"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "100,000 mph 'comet fragment' explodes in green fireball over Great Lakes, eerie "
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 95,
+      "status": "ok",
+      "meta": {
+        "title": "Delhi-NCR AQI 8-year best: Pollution dips between Jan and Nov; only 3 \u2018severe\u2019 d"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 86,
+      "status": "ok",
+      "meta": {
+        "title": "Millions are about to choose the wrong Medicare plan"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 91,
+      "status": "ok",
+      "meta": {
+        "title": "Simon Jack: Businesses left asking -  what happened to growth?"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 91,
+      "status": "ok",
+      "meta": {
+        "title": "'Rage bait' named Oxford word of the year 2025"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Bath go top with thrilling late win at Saracens"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 98,
+      "status": "ok",
+      "meta": {
+        "title": "A Different Type of Dementia Is Changing What\u2019s Known About Cognitive Decline"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 87,
+      "status": "ok",
+      "meta": {
+        "title": "Norris' title wait goes on as Verstappen wins in Qatar"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 96,
+      "status": "ok",
+      "meta": {
+        "title": "Browns to stick with Shedeur Sanders at quarterback for Week 14 against Titans"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 98,
+      "status": "ok",
+      "meta": {
+        "title": "'Debt stress is causing mental health problems'"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 86,
+      "status": "ok",
+      "meta": {
+        "title": "Over 980 booked for drunk driving"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 86,
+      "status": "ok",
+      "meta": {
+        "title": "Did Myanmar\u2019s Junta Demolish Scam Centers Just for Show?"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 96,
+      "status": "ok",
+      "meta": {
+        "title": "\u2018Slender Man\u2019 Attacker Morgan Geyser in Custody After Escaping Group Home"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 88,
+      "status": "ok",
+      "meta": {
+        "title": "Observational Documentary \u2018Aluk\u2019 Traces Seven Years With Indonesian Tana Toraja "
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 85,
+      "status": "ok",
+      "meta": {
+        "title": "The Best Black Friday Soundbar Deals"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 85,
+      "status": "ok",
+      "meta": {
+        "title": "\u2018Zootopia 2\u2019 Roars to Record-Smashing $272 Million China Opening, Sixth-Biggest "
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 86,
+      "status": "ok",
+      "meta": {
+        "title": "'Payment for betrayal': Man stabs wife over extramarital affair; posts selfie wi"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "'Arsenal deserve to be clear - but who's best placed to challenge?'"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 85,
+      "status": "ok",
+      "meta": {
+        "title": "10-man Chelsea hold Arsenal to draw in feisty London derby"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "Trinamool Congress accuses Election Commission of India of leaking info to BJP l"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 91,
+      "status": "ok",
+      "meta": {
+        "title": "This premium Garmin smartwatch just got discounted for the first time"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 88,
+      "status": "ok",
+      "meta": {
+        "title": "Supreme Court to hear plea against forcing Tamil Nadu Anganwadi workers into BLO"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Where Hundreds of Undocumented Migrants Have Died in Custody"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 97,
+      "status": "ok",
+      "meta": {
+        "title": "Duplantis, McLaughlin-Levrone Named World Athletes Of The Year"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 92,
+      "status": "ok",
+      "meta": {
+        "title": "The Black Friday Weekend deal every outdoor enthusiast was waiting for, the Garm"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "The race to regulate AI has sparked a federal vs state showdown"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 93,
+      "status": "ok",
+      "meta": {
+        "title": "Biffy Clyro 'angry' as visa error delays US tour"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 88,
+      "status": "ok",
+      "meta": {
+        "title": "ED notices during elections are a political tactic to destabilise Kerala, says M"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 102,
+      "status": "ok",
+      "meta": {
+        "title": "TOI impact: 1972 rape survivor \u2018Mathura\u2019 to receive Rs 10 lakh aid, pension"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 91,
+      "status": "ok",
+      "meta": {
+        "title": "'Why talk about Kohli's future?': India coach shuts down noise; hints at 2027 WC"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 83,
+      "status": "ok",
+      "meta": {
+        "title": "Luhki Herwanayogi\u2019s \u2018Our Son\u2019 Explores Unconventional Family at JAFF Future Proj"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 96,
+      "status": "ok",
+      "meta": {
+        "title": "Hospitals knew a heart device led to more patients' deaths - but they kept using"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 119,
+      "status": "ok",
+      "meta": {
+        "title": "Black Friday TV deals are still available on sets from Samsung, LG, Sony and mor"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 92,
+      "status": "ok",
+      "meta": {
+        "title": "Greek sheep and goat cull raises fears of feta cheese shortage"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 89,
+      "status": "ok",
+      "meta": {
+        "title": "Astrophotography on a budget: The best Black Friday cameras, lenses, tripods and"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "Isak scores first goal as Liverpool defeat West Ham in Premier League"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 84,
+      "status": "ok",
+      "meta": {
+        "title": "Oracle hit hard in Wall Street\u2019s tech sell-off over its huge AI bet"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 117,
+      "status": "ok",
+      "meta": {
+        "title": "Cyber Monday speaker deals for 2025 live: Save up to 50 percent on Bluetooth spe"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 86,
+      "status": "ok",
+      "meta": {
+        "title": "UK did 'too little, too late', leading to thousands more Covid deaths - inquiry"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 85,
+      "status": "ok",
+      "meta": {
+        "title": "Gazans Say Israeli Forces Killed Two Children, Amid Persistent Violence"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 89,
+      "status": "ok",
+      "meta": {
+        "title": "How Amorim's half-time tweaks turned game around for Man Utd"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "Sally Rooney books may be withdrawn from UK sale over Palestine Action ban, cour"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 305,
+      "status": "ok",
+      "meta": {
+        "title": "Still prefer to call Bangladesh a friend, hope situation there turns around: CNS"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 92,
+      "status": "ok",
+      "meta": {
+        "title": "What is driving US President\u2019s Trump\u2019s actions against Venezuela?"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 90,
+      "status": "ok",
+      "meta": {
+        "title": "Stanford's new cell therapy cures type 1 diabetes in mice"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 95,
+      "status": "ok",
+      "meta": {
+        "title": "Pope Leo visits Istanbul's Blue Mosque"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 97,
+      "status": "ok",
+      "meta": {
+        "title": "Cyber Monday deals include Sony's WH-1000XM5 headphones for an all-time low"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 88,
+      "status": "ok",
+      "meta": {
+        "title": "Astrotourism, dark-sky and Northern Lights travel essentials"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "Giannis Antetokounmpo chasing LeBron James: Bucks star wants to break NBA scorin"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 298,
+      "status": "ok",
+      "meta": {
+        "title": "Top leaders add zest to campaigning in Kozhikode Corporation"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 164,
+      "status": "ok",
+      "meta": {
+        "title": "Cyber Monday deals under $50: Apple AirTags, Legos, Ugreen chargers, Blink camer"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 92,
+      "status": "ok",
+      "meta": {
+        "title": "Honduras votes for new president in poll overshadowed by Trump\u2019s threats"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 96,
+      "status": "ok",
+      "meta": {
+        "title": "'Business rates changes will cost me \u00a362,000'"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 207,
+      "status": "ok",
+      "meta": {
+        "title": "Shrinking tree canopy at California schools could put kids at risk of extreme he"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 195,
+      "status": "ok",
+      "meta": {
+        "title": "Karen Read Claims She Was Framed for Boyfriend\u2019s Murder in New Lawsuit"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 202,
+      "status": "ok",
+      "meta": {
+        "title": "Classic Morris van to get 21st Century all-electric makeover"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 190,
+      "status": "ok",
+      "meta": {
+        "title": "See the stars even on cloudy nights with the Pococo star projector \u2014 lowest pric"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 201,
+      "status": "ok",
+      "meta": {
+        "title": "Trump\u2019s Response to Shooting Shows Intensified Anti-Migrant Stance"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 204,
+      "status": "ok",
+      "meta": {
+        "title": "Man who fought for 'right to die' ends life through assisted death at 92"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 213,
+      "status": "ok",
+      "meta": {
+        "title": "Prostate cancer screening should not be offered to most UK men, say experts"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 176,
+      "status": "ok",
+      "meta": {
+        "title": "Indonesia\u2019s Film Sector Poised for Regional Breakout, JAFF Market\u2013Cinepoint Repo"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 223,
+      "status": "ok",
+      "meta": {
+        "title": "Hancock ignored call to test all NHS staff, Covid inquiry hears"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 165,
+      "status": "ok",
+      "meta": {
+        "title": "Inside return to form of Chelsea's 'fantastic' James"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 234,
+      "status": "ok",
+      "meta": {
+        "title": "Researchers isolate memorization from problem-solving in AI neural networks"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 164,
+      "status": "ok",
+      "meta": {
+        "title": "Trump-Endorsed Candidate and Sportscaster Lead Honduran Presidential Race"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 231,
+      "status": "ok",
+      "meta": {
+        "title": "Parts of Southern Ontario Pummeled by Snow Squalls and Heavy Winds"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 161,
+      "status": "ok",
+      "meta": {
+        "title": "'A reflection of what I've endured' - Paqueta on red card"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 236,
+      "status": "ok",
+      "meta": {
+        "title": "Ole Miss elevates Pete Golding: Rebels DC will become permanent coach as Lane Ki"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 155,
+      "status": "ok",
+      "meta": {
+        "title": "Starmer to launch fresh push for welfare spending reform"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 261,
+      "status": "ok",
+      "meta": {
+        "title": "Obesity jab drug fails to slow Alzheimer's"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 134,
+      "status": "ok",
+      "meta": {
+        "title": "Great news for wildlife photographers, the \"powerhouse\" Canon EOS R5 II is cheap"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 276,
+      "status": "ok",
+      "meta": {
+        "title": "Nintendo Switch 2 Black Friday Deals: Bundles, Controllers, Earbuds"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 119,
+      "status": "ok",
+      "meta": {
+        "title": "After Turbulent Autumn, The International Olympic Committee Has A Reminder For T"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 274,
+      "status": "ok",
+      "meta": {
+        "title": "New puberty blockers trial to begin after UK ban"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 132,
+      "status": "ok",
+      "meta": {
+        "title": "Parliament Winter Session: Govt to bring two bills in Lok Sabha to replace GST c"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 261,
+      "status": "ok",
+      "meta": {
+        "title": "Three children among four killed in shooting at 'birthday party' in California"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 135,
+      "status": "ok",
+      "meta": {
+        "title": "Pope Leo insists on two-state solution to resolve Israel-Palestine conflict"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 244,
+      "status": "ok",
+      "meta": {
+        "title": "The Covid Inquiry Podcast"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 154,
+      "status": "ok",
+      "meta": {
+        "title": "'Even husbands don\u2019t give Rs 100': Maha minister asks Ladki Bahin beneficiaries "
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 236,
+      "status": "ok",
+      "meta": {
+        "title": "Boris Johnson left Inquiry in a hurry - he'll be pleased not to come back"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 153,
+      "status": "ok",
+      "meta": {
+        "title": "\u2018Tere Ishk Mein\u2019 Is Fourth Highest-Grossing Film Worldwide This Week"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 232,
+      "status": "ok",
+      "meta": {
+        "title": "Home of Ukraine\u2019s Lead Negotiator Is Searched in Corruption Case"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 150,
+      "status": "ok",
+      "meta": {
+        "title": "Officials Had Been Warned for Over a Year Before Hong Kong Fire"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 264,
+      "status": "ok",
+      "meta": {
+        "title": "Toy appeal aims to help thousands of children"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 120,
+      "status": "ok",
+      "meta": {
+        "title": "Major waste firm warns vapes causing more than one fire a day"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 279,
+      "status": "ok",
+      "meta": {
+        "title": "HSBC and another chaotic chair search"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 103,
+      "status": "ok",
+      "meta": {
+        "title": "Families failed by Covid jabs tell inquiry of pain"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 286,
+      "status": "ok",
+      "meta": {
+        "title": "Lockdown could have been avoided - key findings from Covid inquiry"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 108,
+      "status": "ok",
+      "meta": {
+        "title": "Prohibition is a national subject, not restricted to Tamil Nadu: Thirumavalavan"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 285,
+      "status": "ok",
+      "meta": {
+        "title": "Nurses penalised for trans complaint, says lawyer"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 104,
+      "status": "ok",
+      "meta": {
+        "title": "'Sunday Night Football' prediction, odds, line, time: Broncos vs. Commanders pic"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 89,
+      "status": "ok",
+      "meta": {
+        "title": "NHS doctor suspended over alleged antisemitic social media posts"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 158,
+      "status": "ok",
+      "meta": {
+        "title": "Mum hosts free toy swap to help cut Christmas costs"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 143,
+      "status": "ok",
+      "meta": {
+        "title": "How the ripple effects of Lane Kiffin's saga upended the entire SEC coaching car"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 93,
+      "status": "ok",
+      "meta": {
+        "title": "\u2018You must leave the country now\u2019: Trump delivers blunt ultimatum to Maduro on ca"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 294,
+      "status": "ok",
+      "meta": {
+        "title": "Scientists discover a hidden brain circuit that rewrites vision"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 94,
+      "status": "ok",
+      "meta": {
+        "title": "Did a NASA telescope really 'see' dark matter? Strange gamma-rays spark bold cla"
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 38469,
+      "status": "ok",
+      "meta": {
+        "final_count": 16
+      }
+    }
+  ],
+  "end_time": 1764575315.9653444
+}

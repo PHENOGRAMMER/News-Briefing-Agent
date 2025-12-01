@@ -1,0 +1,143 @@
+{
+  "trace_id": "c91598f7-3d63-4d4d-883e-95464ca1938f",
+  "start_time": 1764575452.3833776,
+  "steps": [
+    {
+      "name": "fetch",
+      "duration_ms": 2739,
+      "status": "ok",
+      "meta": {
+        "collected": 15
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 111,
+      "status": "ok",
+      "meta": {
+        "title": "Shrinking tree canopy at California schools could put kids at risk of extreme he"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 282,
+      "status": "ok",
+      "meta": {
+        "title": "Scientists discover a hidden brain circuit that rewrites vision"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 101,
+      "status": "ok",
+      "meta": {
+        "title": "Artemis II Orion Spacecraft Stacked"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 291,
+      "status": "ok",
+      "meta": {
+        "title": "Are humans still evolving? An anthropologist breaks it down."
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 103,
+      "status": "ok",
+      "meta": {
+        "title": "A hidden brain energy signal drives depression and anxiety"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 280,
+      "status": "ok",
+      "meta": {
+        "title": "Study finds untreated sleep apnea doubles Parkinson\u2019s risk"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 121,
+      "status": "ok",
+      "meta": {
+        "title": "The air quality industry leaders have quietly dropped the price of the Levoit 40"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 276,
+      "status": "ok",
+      "meta": {
+        "title": "Where cannabis stores cluster, emergency visits climb"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 122,
+      "status": "ok",
+      "meta": {
+        "title": "Want to see the full moon up close? These beginner telescopes are all under $250"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 276,
+      "status": "ok",
+      "meta": {
+        "title": "Seven-year study uncovers the holy grail of beer brewing"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 126,
+      "status": "ok",
+      "meta": {
+        "title": "Scientists may have found dark matter after 100 years of searching"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 266,
+      "status": "ok",
+      "meta": {
+        "title": "Scientists find a hidden obesity trigger in soybean oil"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 133,
+      "status": "ok",
+      "meta": {
+        "title": "Scientists discover hidden wolf DNA in most dogs"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 262,
+      "status": "ok",
+      "meta": {
+        "title": "RSV prevention in newborns could cut asthma risk"
+      }
+    },
+    {
+      "name": "summarize_item",
+      "duration_ms": 131,
+      "status": "ok",
+      "meta": {
+        "title": "Surprise discount \u2014 we didn't expect the best image-stabilized binoculars to be "
+      }
+    },
+    {
+      "name": "compose",
+      "duration_ms": 5627,
+      "status": "ok",
+      "meta": {
+        "final_count": 15
+      }
+    }
+  ],
+  "end_time": 1764575458.0109608
+}
