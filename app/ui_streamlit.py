@@ -5,12 +5,13 @@ Run: streamlit run app/ui_streamlit.py
 """
 import streamlit as st
 
-# Fast health-check: respond with OK if ?health=1 is present
-query_params = st.experimental_get_query_params()
+# Fast health-check using new API
+query_params = st.query_params
 if "health" in query_params:
     st.set_page_config(page_title="Health")
     st.write("OK")
     st.stop()
+
 
 import time
 import streamlit as st
